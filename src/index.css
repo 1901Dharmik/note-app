@@ -106,3 +106,6 @@ textarea:focus {
   padding-left: 15px;
   min-height: 100vh;
 }
+.main-parser{
+  width: 100px;
+}
